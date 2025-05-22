@@ -12,6 +12,7 @@ from spotipy.oauth2 import SpotifyOAuth
 # Edit Redirect URIs and add http://localhost:8888
 # 2. Save as spotify_sync_playlist.py
 # 3. Run:
+# pip install spotipy
 # export SPOTIPY_CLIENT_ID='your_client_id'
 # export SPOTIPY_CLIENT_SECRET='your_client_secret'
 # export SPOTIPY_REDIRECT_URI='http://localhost:8888'
